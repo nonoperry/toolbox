@@ -3,5 +3,4 @@ def hello_world():
 
 print(hello_world())
 
-def doubler(num):
-    return num*2
+
